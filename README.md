@@ -1,4 +1,4 @@
-# FontSwap
+# Font Swap
 Instantly swap the fonts on any page to a Google Font of your choice with this Chrome Extension.
 
 Great for trying out different Google Fonts. Several filters to allow you choose the font based on criteria such as popularity, trending, style, thickness and slant.
